@@ -1,0 +1,15 @@
+{
+    "name": "gulp-accumulate-objects",
+    "version": "0.1.0",
+    "description": "Accumulate JSON objects from multiple files into an array of JSON objects in a single file.",
+    "main": "index.js",
+    "keywords": [
+        "gulpplugin"
+    ],
+    "author": "Jacob Gelman",
+    "license": "MIT",
+    "dependencies": {
+        "gulp-util": "^3.0.8",
+        "through": "^2.3.8"
+    }
+}
